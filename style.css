@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.content{
+    font-family: 'Potta One', cursive;
+}
+
+.container{
+    /* background-color: red; */
+    width: 50vw;
+    padding: 32px 0;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+
+
